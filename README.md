@@ -1,9 +1,9 @@
 # PicSprint
+![App Logo](Assets/logo.png)
 
 PicSprint is a sample Android application built using clean code architecture, Dagger, MVVM architecture pattern, Hilt for dependency injection, Retrofit for networking, and Jetpack Compose for UI.
 
 ![App Preview](Assets/img.png)
-![App Logo](Assets/logo.png)
 
 ## Project Structure
 
