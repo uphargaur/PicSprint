@@ -27,7 +27,7 @@ The project structure follows the clean architecture principles, separating conc
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/picsprint.git
+    git clone https://github.com/uphargaur/picsprint.git
     ```
 
 2. Open the project in Android Studio.
